@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Primary Colors (Green theme for agriculture) -->
+	<color name="green_100">#E8F5E8</color>
+	<color name="green_500">#4CAF50</color>
+	<color name="green_900">#1B5E20</color>
+
+	<!-- Secondary Colors (Blue theme for water/irrigation) -->
+	<color name="blue_100">#E3F2FD</color>
+	<color name="blue_500">#2196F3</color>
+	<color name="blue_900">#0D47A1</color>
+
+	<!-- Weather Colors (Yellow/Golden theme for weather conditions) -->
+	<color name="weather_golden">#F9A825</color>
+	<color name="weather_golden_light">#FFF9C4</color>
+
+	<!-- Basic Colors -->
+	<color name="white">#FFFFFF</color>
+	<color name="black">#000000</color>
+
+	<!-- Weather condition colors -->
+	<color name="sunny_yellow">#FFD700</color>
+	<color name="cloudy_gray">#708090</color>
+	<color name="rainy_blue">#4682B4</color>
+	<color name="soil_brown">#8B4513</color>
+
+	<!-- Temperature gradient colors -->
+	<color name="temp_hot_red">#E53E3E</color>
+	<color name="temp_orange_red">#FF6B35</color>
+	<color name="temp_orange">#FF8C42</color>
+	<color name="temp_orange_golden">#FFA500</color>
+	<color name="temp_green">#48BB78</color>
+	<color name="temp_teal">#38B2AC</color>
+	<color name="temp_blue">#4299E1</color>
+	<color name="temp_purple">#805AD5</color>
+
+	<!-- Humidity colors -->
+	<color name="humidity_deep_blue">#667EEA</color>
+	<color name="humidity_purple">#764BA2</color>
+	<color name="humidity_light_purple">#9C88FF</color>
+	<color name="humidity_gray">#BDBDBD</color>
+
+	<!-- Wind speed colors -->
+	<color name="wind_high_red">#E53E3E</color>
+	<color name="wind_orange">#FF8C42</color>
+	<color name="wind_green">#48BB78</color>
+	<color name="wind_blue">#4299E1</color>
+	<color name="wind_calm_gray">#BDBDBD</color>
+
+	<!-- Spray condition colors -->
+	<color name="spray_excellent">#4CAF50</color>
+	<color name="spray_good">#66BB6A</color>
+	<color name="spray_fair">#FF9800</color>
+	<color name="spray_poor">#D32F2F</color>
+	<color name="spray_unknown">#9E9E9E</color>
+
+	<!-- Agricultural metric colors -->
+	<color name="soil_moisture_very_wet">#1565C0</color>
+	<color name="soil_moisture_good">#2E7D32</color>
+	<color name="soil_moisture_moderate">#66BB6A</color>
+	<color name="soil_moisture_low">#FFB74D</color>
+	<color name="soil_moisture_very_dry">#D32F2F</color>
+
+	<!-- Solar radiation colors -->
+	<color name="solar_very_high">#FF6F00</color>
+	<color name="solar_high">#FFB300</color>
+	<color name="solar_moderate">#FDD835</color>
+	<color name="solar_low">#AED581</color>
+	<color name="solar_very_low">#78909C</color>
+
+	<!-- Soil temperature colors -->
+	<color name="soil_temp_too_hot">#D32F2F</color>
+	<color name="soil_temp_optimal">#66BB6A</color>
+	<color name="soil_temp_good">#81C784</color>
+	<color name="soil_temp_cool">#42A5F5</color>
+	<color name="soil_temp_cold">#1976D2</color>
+
+	<!-- Weather icon colors -->
+	<color name="icon_clear_day">#FFD700</color>
+	<color name="icon_clear_night">#483D8B</color>
+	<color name="icon_rain">#4169E1</color>
+	<color name="icon_snow">#87CEEB</color>
+	<color name="icon_wind">#87CEEB</color>
+	<color name="icon_fog">#708090</color>
+	<color name="icon_cloudy">#696969</color>
+	<color name="icon_partly_cloudy_day">#87CEFA</color>
+	<color name="icon_partly_cloudy_night">#2F4F4F</color>
+	<color name="icon_thunderstorms">#9C27B0</color>
+	<color name="icon_hail">#81D4FA</color>
+	<color name="icon_drizzle">#4FC3F7</color>
+	<color name="icon_mist">#708090</color>
+	<color name="icon_haze">#BDBDBD</color>
+	<color name="icon_dust">#757575</color>
+	<color name="icon_smoke">#757575</color>
+	<color name="icon_tornado">#9C27B0</color>
+	<color name="icon_hurricane">#E91E63</color>
+
+	<!-- Detail icon colors -->
+	<color name="detail_icon_thermostat">#FF6B35</color>
+	<color name="detail_icon_water_drop">#1E88E5</color>
+	<color name="detail_icon_air">#87CEEB</color>
+	<color name="detail_icon_monitor_heart">#9C27B0</color>
+	<color name="detail_icon_shield">#FFD700</color>
+	<color name="detail_icon_cloud">#696969</color>
+	<color name="detail_icon_grain">#4169E1</color>
+	<color name="detail_icon_visibility">#2196F3</color>
+	<color name="detail_icon_compare_arrows">#42A5F5</color>
+	<color name="detail_icon_navigation">#00BCD4</color>
+	<color name="detail_icon_wb_sunny">#FFB300</color>
+	<color name="detail_icon_light_mode">#FFE082</color>
+	<color name="detail_icon_ac_unit">#81D4FA</color>
+	<color name="detail_icon_brightness3">#9C27B0</color>
+	<color name="detail_icon_default">#6200EE</color>
+
+	<!-- Sun colors -->
+	<color name="sun_sunrise">#FFD700</color>
+	<color name="sun_sunset">#FF6347</color>
+	<color name="sun_solar_energy">#FFA500</color>
+
+	<!-- Irrigation card backgrounds -->
+	<color name="irrigation_excellent_bg">#E8F5E8</color>
+	<color name="irrigation_good_bg">#FFF8DC</color>
+	<color name="irrigation_poor_bg">#FFE4E1</color>
+
+	<!-- Status indicator colors -->
+	<color name="status_excellent">#4CAF50</color>
+	<color name="status_good">#66BB6A</color>
+	<color name="status_fair">#FF9800</color>
+	<color name="status_poor">#E53E3E</color>
+
+	<!-- Temperature gradient colors extended -->
+	<color name="temp_very_cold">#805AD5</color>
+
+	<!-- Forecast card background -->
+	<color name="forecast_card_bg">#F8F9FA</color>
+
+	<!-- Blue backgrounds for various elements -->
+	<color name="blue_background_light">#E3F2FD</color>
+	<color name="blue_background_alpha">#2196F3</color>
+
+	<!-- Wind direction arrow colors -->
+	<color name="wind_calm">#BDBDBD</color>
+
+	<!-- Humidity background colors -->
+	<color name="humidity_background_deep">#667EEA</color>
+	<color name="humidity_background_purple">#764BA2</color>
+	<color name="humidity_background_light">#9C88FF</color>
+	<color name="humidity_background_gray">#BDBDBD</color>
+
+	<!-- Additional status colors -->
+	<color name="metric_status_good">#4CAF50</color>
+	<color name="metric_status_fair">#FF9800</color>
+	<color name="metric_status_high">#E53E3E</color>
+	<color name="metric_status_poor">#D32F2F</color>
+</resources>

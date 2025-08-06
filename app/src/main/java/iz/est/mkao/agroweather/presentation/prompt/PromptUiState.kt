@@ -1,0 +1,38 @@
+package iz.est.mkao.agroweather.presentation.prompt
+
+data class PromptUiState(
+    val isLoading: Boolean = false,
+    val selectedSuggestion: String = "Crop Farming",
+    val cityName: String = "",
+    val latitude: Double = 38.9697,
+    val longitude: Double = -77.385,
+    val weatherSuggestions: List<String> = emptyList(),
+    val farmProducts: List<String> = listOf(
+        "Organic Vegetables",
+        "Dairy",
+        "Harvesting",
+        "Fruits and Berries",
+        "Grain Crops",
+        "Herbs",
+        "Irrigation",
+        "Livestock Care",
+        "Organic Farming",
+        "Beekeeping",
+        "Composting",
+    ),
+    val farmActivities: List<String> = listOf(
+        "Farm Tour",
+        "Farmers Market",
+        "Workshops",
+        "Crop Farming",
+        "Hay Rides",
+        "Petting Zoo",
+        "Tractor Rides",
+        "Planting",
+        "Farm Equipment",
+        "Irrigation",
+        "Orchard",
+        "Corn Maze",
+    ),
+    val error: String? = null,
+)

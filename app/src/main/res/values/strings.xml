@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">AgroWeather</string>
+	<string name="current_weather">Current Weather</string>
+	<string name="forecast">Forecast</string>
+	<string name="soil_conditions">Soil Conditions</string>
+	<string name="irrigation_planner">Irrigation Planner</string>
+	<string name="ai_suggestions">AI Suggestions</string>
+	<string name="settings">Settings</string>
+	<string name="location">Location</string>
+	<string name="temperature">Temperature</string>
+	<string name="humidity">Humidity</string>
+	<string name="wind_speed">Wind Speed</string>
+	<string name="precipitation">Precipitation</string>
+	<string name="soil_moisture">Soil Moisture</string>
+	<string name="soil_temperature">Soil Temperature</string>
+	<string name="best_days_to_irrigate">Best Days to Irrigate</string>
+	<string name="search_location">Search location</string>
+	<string name="api_key_setting">Weather API Key</string>
+	<string name="api_key_summary">Enter your Visual Crossing Weather API key</string>
+
+	<!-- Farming Suggestions Screen -->
+	<string name="my_selection">My selection</string>
+	<string name="weather_based_suggestions">Weather-Based Suggestions</string>
+	<string name="farm_products">Farm Products</string>
+	<string name="on_the_farm">On the Farm</string>
+	<string name="see_more">See more</string>
+	<string name="current_location">Current Location</string>
+	<string name="open_ai_chat">Open AI Chat</string>
+	<string name="back">Back</string>
+	<string name="continue_with_selections">Continue with selections</string>
+	<string name="expand">Expand</string>
+	<string name="collapse">Collapse</string>
+
+	<!-- Weather Conditions -->
+	<string name="clear_sky">Clear sky</string>
+	<string name="partly_cloudy">Partly cloudy</string>
+	<string name="overcast">Overcast</string>
+	<string name="fog">Fog</string>
+	<string name="drizzle">Drizzle</string>
+	<string name="rain">Rain</string>
+	<string name="snow">Snow</string>
+	<string name="thunderstorm">Thunderstorm</string>
+	<string name="unknown_weather">Unknown</string>
+
+	<!-- Error Messages -->
+	<string name="network_error">No internet connection</string>
+	<string name="service_error">Service Error</string>
+	<string name="location_error">Location Error</string>
+	<string name="unexpected_error">Unexpected Error</string>
+	<string name="empty_response_error">Empty response body</string>
+	<string name="loading_weather_data">Loading weather data</string>
+	<string name="error_loading_weather">Error loading weather data</string>
+	<string name="retry">Retry</string>
+	<string name="dismiss">Dismiss</string>
+	<string name="check_connection">Please check your internet connection</string>
+
+	<!-- Irrigation -->
+	<string name="irrigation_analysis">Irrigation Analysis</string>
+	<string name="soil_moisture_label">Soil Moisture</string>
+	<string name="wind_speed_label">Wind Speed</string>
+	<string name="rain_chance">Rain Chance</string>
+	<string name="temperature_label">Temperature</string>
+	<string name="recommendations">Recommendations</string>
+	<string name="irrigation_suitable">Irrigation conditions are suitable</string>
+	<string name="irrigation_not_suitable">Irrigation conditions are not suitable</string>
+	<string name="irrigate">IRRIGATE</string>
+	<string name="skip_irrigation">SKIP</string>
+
+	<!-- Agricultural Terms -->
+	<string name="soil_temp">Soil Temp</string>
+	<string name="water_loss">Water Loss</string>
+	<string name="sunshine">Sunshine</string>
+	<string name="dew_point">Dew Point</string>
+	<string name="agricultural_forecast">Agricultural Forecast</string>
+	<string name="agricultural_insights">Agricultural Insights</string>
+
+	<!-- Spray Conditions -->
+	<string name="spray_conditions">Spray Conditions</string>
+	<string name="best_spray_time">Best Spray Time</string>
+	<string name="spray_condition">Spray Condition</string>
+	<string name="spray_excellent">Excellent</string>
+	<string name="spray_poor">Poor</string>
+	<string name="spray_anytime">Anytime</string>
+	<string name="spray_morning_evening">Morning/Evening</string>
+	<string name="spray_early_morning">Early Morning</string>
+	<string name="spray_midday">Midday</string>
+	<string name="spray_avoid_today">Avoid Today</string>
+
+	<!-- Weather Detail Screen -->
+	<string name="weather_details">Weather Details</string>
+	<string name="agricultural_information">Agricultural Information</string>
+	<string name="hourly_forecast">Hourly Forecast</string>
+	<string name="sun_weather_info">Sun &amp; Weather Info</string>
+	<string name="smart_farming_insights">Smart Farming Insights</string>
+	<string name="feels_like">Feels Like</string>
+	<string name="wind_direction">Wind Direction</string>
+	<string name="solar_radiation">Solar Radiation</string>
+	<string name="solar_energy">Solar Energy</string>
+	<string name="cloud_cover">Cloud Cover</string>
+	<string name="pressure">Pressure</string>
+	<string name="uv_index">UV Index</string>
+	<string name="visibility">Visibility</string>
+	<string name="moon_phase">Moon Phase</string>
+	<string name="sunrise">Sunrise</string>
+	<string name="sunset">Sunset</string>
+	<string name="evapotranspiration">Evapotranspiration</string>
+	<string name="potential_et">Potential ET</string>
+
+	<!-- Status descriptions -->
+	<string name="measured_value">Measured value</string>
+	<string name="no_data_available">No data available</string>
+	<string name="estimated_value">Estimated value</string>
+	<string name="estimated_soil_temp">Estimated (~2°C below air temp)</string>
+	<string name="estimated_based_weather">Estimated based on weather</string>
+	<string name="maximum_water_need">Maximum water need</string>
+	<string name="daily_total">Daily total</string>
+	<string name="lunar_cycle">Lunar cycle</string>
+
+	<!-- Spray condition reasons -->
+	<string name="high_winds_speed">High winds (%d km/h)</string>
+	<string name="rain_chance_percent">%d%% rain chance</string>
+	<string name="too_hot_temp">Too hot (%d°C)</string>
+	<string name="too_cold_temp">Too cold (%d°C)</string>
+	<string name="moderate_winds_speed">Moderate winds (%d km/h)</string>
+	<string name="hot_weather_temp">Hot weather (%d°C)</string>
+	<string name="cool_weather_temp">Cool weather (%d°C)</string>
+	<string name="low_humidity_percent">Low humidity (%d%%)</string>
+	<string name="ideal_conditions">Ideal conditions</string>
+	<string name="favorable_conditions">Favorable conditions</string>
+	<string name="suitable_for_spraying">Suitable for spraying</string>
+	<string name="rain_expected">Rain expected</string>
+	<string name="too_windy">Too windy</string>
+	<string name="too_hot_during_day">Too hot during day</string>
+	<string name="too_cold_morning_evening">Too cold morning/evening</string>
+	<string name="calm_conditions">Calm conditions</string>
+	<string name="avoid_midday_heat">Avoid midday heat</string>
+
+	<!-- Humidity status -->
+	<string name="humidity_low_dry">Low - Dry</string>
+	<string name="humidity_comfortable">Comfortable</string>
+	<string name="humidity_high_humid">High - Humid</string>
+	<string name="humidity_very_high">Very High</string>
+
+	<!-- Pressure status -->
+	<string name="pressure_low_stormy">Low - Stormy</string>
+	<string name="pressure_normal">Normal</string>
+	<string name="pressure_high_clear">High - Clear</string>
+
+	<!-- UV status -->
+	<string name="uv_low">Low</string>
+	<string name="uv_moderate">Moderate</string>
+	<string name="uv_high">High</string>
+	<string name="uv_very_high">Very High</string>
+	<string name="uv_extreme">Extreme</string>
+
+	<!-- Cloud status -->
+	<string name="cloud_clear">Clear</string>
+	<string name="cloud_mostly_clear">Mostly Clear</string>
+	<string name="cloud_partly_cloudy">Partly Cloudy</string>
+	<string name="cloud_mostly_cloudy">Mostly Cloudy</string>
+	<string name="cloud_overcast">Overcast</string>
+
+	<!-- Visibility status -->
+	<string name="visibility_very_poor">Very Poor</string>
+	<string name="visibility_poor">Poor</string>
+	<string name="visibility_moderate">Moderate</string>
+	<string name="visibility_excellent">Excellent</string>
+
+	<!-- Solar status -->
+	<string name="solar_low">Low</string>
+	<string name="solar_moderate">Moderate</string>
+	<string name="solar_high">High</string>
+	<string name="solar_peak">Peak</string>
+
+	<!-- Soil moisture advice -->
+	<string name="soil_very_dry_irrigation_needed">Very dry - irrigation needed</string>
+	<string name="soil_dry_consider_watering">Dry - consider watering</string>
+	<string name="soil_optimal_most_crops">Optimal for most crops</string>
+	<string name="soil_wet_monitor_drainage">Wet - monitor drainage</string>
+	<string name="soil_saturated_waterlogging_risk">Saturated - risk of waterlogging</string>
+
+	<!-- Soil temperature advice -->
+	<string name="soil_temp_too_cold_crops">Too cold for most crops</string>
+	<string name="soil_temp_cool_limited_growth">Cool - limited growth</string>
+	<string name="soil_temp_good_cool_season">Good for cool season crops</string>
+	<string name="soil_temp_optimal_warm_season">Optimal for warm season crops</string>
+	<string name="soil_temp_hot_stress_plants">Hot - may stress plants</string>
+
+	<!-- Status Labels -->
+	<string name="good">Good</string>
+	<string name="fair">Fair</string>
+	<string name="poor">Poor</string>
+	<string name="high">High</string>
+	<string name="low">Low</string>
+	<string name="moderate">Moderate</string>
+	<string name="optimal">Optimal</string>
+
+	<!-- Actions -->
+	<string name="clear_all">Clear All</string>
+	<string name="cancel">Cancel</string>
+	<string name="delete">Delete</string>
+	<string name="share">Share</string>
+	<string name="refresh">Refresh</string>
+	<string name="loading">Loading</string>
+
+	<!-- Weather Detail Labels -->
+	<string name="depth_cm">Depth: %.1f cm</string>
+	<string name="unknown">Unknown</string>
+	<string name="ask_ai_personalized_advice">Ask AI for personalized advice</string>
+
+	<!-- Moon phases -->
+	<string name="new_moon">New Moon</string>
+	<string name="waxing_crescent">Waxing Crescent</string>
+	<string name="first_quarter">First Quarter</string>
+	<string name="waxing_gibbous">Waxing Gibbous</string>
+	<string name="full_moon">Full Moon</string>
+	<string name="waning_gibbous">Waning Gibbous</string>
+	<string name="last_quarter">Last Quarter</string>
+	<string name="waning_crescent">Waning Crescent</string>
+
+	<!-- Wind directions -->
+	<string name="wind_n">N</string>
+	<string name="wind_nne">NNE</string>
+	<string name="wind_ne">NE</string>
+	<string name="wind_ene">ENE</string>
+	<string name="wind_e">E</string>
+	<string name="wind_ese">ESE</string>
+	<string name="wind_se">SE</string>
+	<string name="wind_sse">SSE</string>
+	<string name="wind_s">S</string>
+	<string name="wind_ssw">SSW</string>
+	<string name="wind_sw">SW</string>
+	<string name="wind_wsw">WSW</string>
+	<string name="wind_w">W</string>
+	<string name="wind_wnw">WNW</string>
+	<string name="wind_nw">NW</string>
+	<string name="wind_nnw">NNW</string>
+
+	<!-- Accessibility -->
+	<string name="weather_icon_desc">Weather condition icon</string>
+	<string name="temperature_desc">Temperature reading</string>
+	<string name="humidity_desc">Humidity level</string>
+	<string name="wind_speed_desc">Wind speed</string>
+	<string name="precipitation_desc">Precipitation probability</string>
+	<string name="uv_index_desc">UV index level</string>
+
+	<!-- Navigation -->
+	<string name="radar">Radar</string>
+	<string name="live">Live</string>
+	<string name="saved_chats">Saved Chats</string>
+	<string name="no_saved_chats">No Saved Chats</string>
+
+	<!-- Time -->
+	<string name="just_now">Just now</string>
+	<string name="today">Today</string>
+	<string name="online">Online</string>
+
+	<!-- Farm Products -->
+	<string name="organic_vegetables">Organic Vegetables</string>
+	<string name="dairy">Dairy</string>
+	<string name="harvesting">Harvesting</string>
+	<string name="fruits_berries">Fruits and Berries</string>
+	<string name="grain_crops">Grain Crops</string>
+	<string name="herbs">Herbs</string>
+	<string name="irrigation">Irrigation</string>
+	<string name="livestock_care">Livestock Care</string>
+
+	<!-- Forecast Section -->
+	<string name="early_morning_6_10_am">Early Morning (6-10 AM)</string>
+	<string name="evening_5_7_pm">Evening (5-7 PM)</string>
+	<string name="avoid_today">Avoid Today</string>
+	<string name="rain_chance_percent_format">Rain Chance</string>
+	<string name="temperature_format">Temperature</string>
+	<string name="wind_speed_kmh">Wind Speed</string>
+	<string name="soil_moisture_percent">Soil Moisture</string>
+	<string name="best_time">Best Time</string>
+	<string name="no_data_available_short">No data available</string>
+	<string name="hourly_forecast_title">Hourly Forecast</string>
+	<string name="agricultural_forecast_16_day">Agricultural Forecast (16-Day)</string>
+	<string name="irrigation_suitable_title">Irrigation conditions are suitable</string>
+	<string name="irrigation_not_suitable_title">Irrigation conditions are not suitable</string>
+
+	<!-- Days of week -->
+	<string name="sunday">Sunday</string>
+	<string name="monday">Monday</string>
+	<string name="tuesday">Tuesday</string>
+	<string name="wednesday">Wednesday</string>
+	<string name="thursday">Thursday</string>
+	<string name="friday">Friday</string>
+	<string name="saturday">Saturday</string>
+
+	<!-- Months -->
+	<string name="january">January</string>
+	<string name="february">February</string>
+	<string name="march">March</string>
+	<string name="april">April</string>
+	<string name="may">May</string>
+	<string name="june">June</string>
+	<string name="july">July</string>
+	<string name="august">August</string>
+	<string name="september">September</string>
+	<string name="october">October</string>
+	<string name="november">November</string>
+	<string name="december">December</string>
+
+	<!-- Time format -->
+	<string name="am_format">AM</string>
+	<string name="pm_format">PM</string>
+	<string name="hour_minute_format" formatted="false">%d:%02d</string>
+
+	<!-- Irrigation recommendations -->
+	<string name="soil_saturated_delay">Soil is saturated. Delay irrigation to prevent waterlogging.</string>
+	<string name="soil_very_dry_immediate">Soil is very dry. Consider immediate irrigation.</string>
+	<string name="soil_low_good_time">Soil moisture is low. Good time for irrigation.</string>
+	<string name="soil_adequate_monitor">Soil moisture is adequate. Monitor before irrigating.</string>
+	<string name="high_rain_postpone">High rain probability. Postpone irrigation.</string>
+	<string name="moderate_rain_monitor">Moderate rain chance. Monitor weather closely.</string>
+	<string name="low_rain_safe">Low rain probability. Safe to irrigate.</string>
+	<string name="high_winds_avoid">High winds. Avoid irrigation to prevent drift.</string>
+	<string name="moderate_winds_pressure">Moderate winds. Use lower pressure if irrigating.</string>
+	<string name="wind_favorable">Wind conditions are favorable for irrigation.</string>
+	<string name="very_hot_early_evening">Very hot. Irrigate early morning or evening only.</string>
+	<string name="hot_avoid_midday">Hot weather. Avoid midday irrigation.</string>
+	<string name="too_cold_delay">Too cold. Delay irrigation until warmer.</string>
+	<string name="temp_suitable">Temperature is suitable for irrigation.</string>
+	<string name="current_ideal_morning">Current time is ideal for morning irrigation.</string>
+	<string name="wait_evening">Consider waiting for evening (5-7 PM) to irrigate.</string>
+	<string name="good_evening_time">Good evening time for irrigation.</string>
+	<string name="plan_tomorrow_morning">Plan irrigation for tomorrow morning (6-10 AM).</string>
+
+	<!-- Weather conditions -->
+	<string name="soil_temp_short">Soil Temp</string>
+	<string name="wind_short">Wind</string>
+	<string name="sunshine_short">Sunshine</string>
+	<string name="dew_point_short">Dew Point</string>
+
+	<!-- Status messages -->
+	<string name="ideal_conditions_status">Ideal conditions</string>
+	<string name="favorable_conditions_status">Favorable conditions</string>
+	<string name="suitable_status">Suitable</string>
+	<string name="high_winds_status">High winds</string>
+	<string name="rain_expected_status">Rain expected</string>
+	<string name="too_hot_status">Too hot</string>
+	<string name="too_cold_status">Too cold</string>
+	<string name="moderate_winds_status">Moderate winds</string>
+	<string name="rain_possible_status">Rain possible</string>
+	<string name="hot_weather_status">Hot weather</string>
+	<string name="cool_weather_status">Cool weather</string>
+	<string name="low_humidity_status">Low humidity</string>
+
+	<!-- Table headers -->
+	<string name="hour_header">Hour</string>
+	<string name="rain_header">Rain.</string>
+	<string name="temp_header">Temp.</string>
+	<string name="humidity_header">Hum.</string>
+	<string name="wind_gust_header">Wind/Gust</string>
+</resources>
