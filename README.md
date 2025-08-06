@@ -12,16 +12,16 @@ The app is built with the Model-View-ViewModel (MVVM) as its structural design p
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f7fcefa9-d0a7-49a7-8c55-01d75124b0f3" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/04f60def-5f2c-47bf-b0da-acbf808919cc" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/91c82e9a-722f-4613-b477-ab81bfc42dde" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d76005c7-3412-4167-af73-18ee8964d28a" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a37e3dd4-cd6b-4c28-91e7-ddde5df09f44" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7290f626-356d-413f-b851-7810120307b6" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/507d75a0-d8a3-4285-ace3-2bbfda2bd068" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/75d7d916-a419-4fc5-907a-6497de37ad7e" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/e6c706a0-a471-413a-abb5-873c5d45393c" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/decf6bf6-4872-4b14-a266-24e6443a6104" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/2af4a686-3a4d-4981-8e50-1e4483f38626" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/3296bc3d-945f-43ac-8c7f-bff63f6bc975" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/eb5f49e2-9edb-4e5a-8d58-68a1699ff66d" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1b907437-4e1f-47c3-9bcd-013bd82f67c7" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5669a06f-032e-46fe-8a44-634865f0682c" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/315bec36-efd0-4709-a6fa-cee9883229d1" width="200"/></td>
   </tr>
 </table>
 
