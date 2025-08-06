@@ -19,7 +19,7 @@ The app is built with the Model-View-ViewModel (MVVM) as its structural design p
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/eb5f49e2-9edb-4e5a-8d58-68a1699ff66d" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/1b907437-4e1f-47c3-9bcd-013bd82f67c7" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/db73a1cc-9466-4d2e-8aba-2fe358e37eb3" width="200"/></td>
     <td><img src="https://github.com/user-attachments/assets/5669a06f-032e-46fe-8a44-634865f0682c" width="200"/></td>
     <td><img src="https://github.com/user-attachments/assets/315bec36-efd0-4709-a6fa-cee9883229d1" width="200"/></td>
   </tr>
